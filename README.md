@@ -11,18 +11,32 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
-🌃 Evening                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+🌞 Morning                198 commits         ████████░░░░░░░░░░░░░░░░░   33.39 % 
+🌆 Daytime                188 commits         ████████░░░░░░░░░░░░░░░░░   31.70 % 
+🌃 Evening                202 commits         █████████░░░░░░░░░░░░░░░░   34.06 % 
+🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
- Last Updated on 16/09/2024 18:44:38 UTC
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 16/09/2024 22:17:54 UTC
 <!--END_SECTION:waka-->
 ---
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLanfear's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danlanfear&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
