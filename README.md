@@ -6,7 +6,7 @@ Currently I am finishing my Master's in Software Engineering as I compete at the
   |Degree|Completion|
   | --- | --- |
   | B.S. Computer Science | ████████████ 100% Complete|
-  | M.S. Software Engineering |██████░░░░░░ 50%  Complete|
+  | M.S. Software Engineering | ████████████ 100% Complete|
  
 
   ---
