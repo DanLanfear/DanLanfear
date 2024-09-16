@@ -10,7 +10,7 @@ Outside of work, I like to experiment with personal web development projects and
   
 <a href="https://github.com/danlanfear/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlanfear&layout=compact&theme=buefy&hide_border=true" /></a>
 
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DanLanfear's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danlanfear&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
  
  <!--
