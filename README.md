@@ -1,9 +1,9 @@
 # Howdy, I'm Dan 👉
 <pre align="left">
-    💼 I'm a full stack dev at General Motors
-    💻 I'm currently making my own spin on a 2D plaformer I played as a kid
-    🏫 B.S. Computer Science | M.S. Software Engineering
-    🎮 Music • Games • Fitness • Code
+💼 I'm a full stack dev at General Motors
+💻 I'm currently making my own spin on a 2D plaformer I played as a kid
+🏫 B.S. Computer Science | M.S. Software Engineering
+🎮 Music • Games • Fitness • Code
 </pre>
 ---  
 ### Spotify Playing 🎧
