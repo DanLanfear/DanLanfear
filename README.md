@@ -1,4 +1,4 @@
-# Howdy, I'm Dan 👉
+# Howdy, I'm Dan 🤙
 <pre align="left">
 💼 I'm a full stack dev at General Motors
 💻 I'm currently making my own spin on a 2D platformer I played as a kid
